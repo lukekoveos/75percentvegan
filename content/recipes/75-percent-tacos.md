@@ -10,7 +10,7 @@ description: "Classic taco night, 75% plant-based. Black beans, TVP, and just en
 image: "/images/recipes/tacos.jpg"
 prepTime: "15 minutes"
 cookTime: "15 minutes"
-servings: 4
+servings: 6
 difficulty: "beginner"
 cost: "~£10"
 ---
@@ -25,13 +25,13 @@ Good news: you don't have to. The 75% approach turns regular taco night into som
 
 ## The 75% Taco Mix
 
-Instead of 500g beef, we use:
+Instead of 2 packs of beef, we use:
 
 | Ingredient | Amount | Role |
 |------------|--------|------|
 | Black beans | 1 can (drained) | Bulk + protein |
-| TVP (textured vegetable protein) | 1 cup (rehydrated) | Meaty texture |
-| Beef mince | 125g | Familiar flavor |
+| TVP (textured vegetable protein) | 2 cups (rehydrated) | Meaty texture |
+| Beef mince | 1 pack | Familiar flavor |
 
 Total protein content is actually *higher* than all-beef tacos. Mind blown? Same.
 
@@ -39,8 +39,8 @@ Total protein content is actually *higher* than all-beef tacos. Mind blown? Same
 
 ### The Protein
 - 1 can black beans, drained and rinsed
-- 1 cup TVP, rehydrated in hot water
-- 125g (about 1/4 lb) beef mince
+- 2 cups TVP, rehydrated in hot water
+- 1 pack beef mince
 
 ### The Seasoning
 - 2 tsp cumin
@@ -64,7 +64,7 @@ Total protein content is actually *higher* than all-beef tacos. Mind blown? Same
 ## Instructions
 
 ### 1. Prep the TVP
-Pour 1 cup TVP into a bowl. Cover with hot water or vegetable stock. Let sit 10 minutes until rehydrated. Drain excess liquid.
+Pour 2 cups TVP into a bowl. Cover with hot water or vegetable stock. Let sit 10 minutes until rehydrated. Drain excess liquid.
 
 ### 2. Brown the Beef
 In a large skillet over medium-high heat, brown the beef mince. Break it up as it cooks. Once browned, don't remove — we're building on it.

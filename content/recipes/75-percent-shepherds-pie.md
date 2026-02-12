@@ -10,7 +10,7 @@ description: "The ultimate comfort food, reimagined. Lentils and mushrooms do th
 image: "/images/recipes/shepherds-pie.jpg"
 prepTime: "25 minutes"
 cookTime: "35 minutes"
-servings: 6
+servings: 8
 difficulty: "intermediate"
 cost: "~£12"
 ---
@@ -27,17 +27,17 @@ This version keeps all of that. We just swapped most of the lamb for lentils and
 
 | Ingredient | Amount | Role |
 |------------|--------|------|
-| Green/brown lentils | 1 cup cooked | Meaty texture + protein |
-| Mushrooms | 250g, finely chopped | Umami bomb |
-| Carrots & peas | 1.5 cups | Classic veg |
-| Lamb mince | 150g | The nostalgia factor |
+| Green/brown lentils | 2 cans | Meaty texture + protein |
+| Mushrooms | 1 pack, finely chopped | Umami bomb |
+| Carrots & peas | 2 cups | Classic veg |
+| Lamb mince | 1 pack | The nostalgia factor |
 
 ## Ingredients
 
 ### The Filling
-- 150g lamb mince (or beef — technically cottage pie, but who's counting)
-- 1 cup cooked green/brown lentils (1 can, drained)
-- 250g mushrooms, finely chopped (chestnut or button)
+- 1 pack lamb mince (or beef — technically cottage pie, but who's counting)
+- 2 cans green/brown lentils, drained
+- 1 pack mushrooms, finely chopped (chestnut or button)
 - 1 large onion, diced
 - 2 carrots, diced small
 - 1 cup frozen peas
@@ -116,4 +116,4 @@ Buy them on the reduced shelf. They work even better slightly wrinkly.
 
 ---
 
-*One dish. Feeds six. 150g of lamb stretched across an entire pie. Comfort food without the guilt. That's the 75% promise.*
+*One dish. Feeds six. One pack of lamb stretched across an entire pie. Comfort food without the guilt. That's the 75% promise.*

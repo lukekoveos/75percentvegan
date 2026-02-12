@@ -10,7 +10,7 @@ description: "Proper meatballs with 75% plant protein. Lentils and oats give the
 image: "/images/recipes/meatballs.jpg"
 prepTime: "20 minutes"
 cookTime: "25 minutes"
-servings: 4
+servings: 6
 difficulty: "intermediate"
 cost: "~£9"
 ---
@@ -27,17 +27,17 @@ So we didn't touch them wrong. These are dense, savory, hold-together-on-a-fork 
 
 | Ingredient | Amount | Role |
 |------------|--------|------|
-| Cooked green/brown lentils | 1 cup | Bulk + protein + binding |
-| Rolled oats | 1/2 cup | Texture + binding |
-| Beef mince | 125g | Flavor + fat |
+| Cooked green/brown lentils | 2 cans | Bulk + protein + binding |
+| Rolled oats | 1 cup | Texture + binding |
+| Beef mince | 1 pack | Flavor + fat |
 
 ## Ingredients
 
 ### The Meatballs
-- 1 cup cooked green or brown lentils (1 can, drained works fine)
-- 1/2 cup rolled oats
-- 125g (about 1/4 lb) beef mince
-- 1 egg (the glue)
+- 2 cans green or brown lentils, drained
+- 1 cup rolled oats
+- 1 pack beef mince
+- 2 eggs (the glue)
 - 2 cloves garlic, minced
 - 1 small onion, finely diced
 - 2 tbsp fresh parsley, chopped (or 1 tbsp dried)

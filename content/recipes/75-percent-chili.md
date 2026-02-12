@@ -10,7 +10,7 @@ description: "A big-batch chili that's 75% beans and veg, 25% beef. Feeds a crow
 image: "/images/recipes/chili.jpg"
 prepTime: "15 minutes"
 cookTime: "40 minutes"
-servings: 6
+servings: 8
 difficulty: "beginner"
 cost: "~£10"
 ---
@@ -27,17 +27,18 @@ This is a Sunday-afternoon, fill-the-house-with-smell, eat-it-all-week kind of r
 
 | Ingredient | Amount | Role |
 |------------|--------|------|
-| Kidney beans | 2 cans | Protein + bulk |
+| Kidney beans | 1 can | Protein + bulk |
 | Black beans | 1 can | Variety + texture |
-| Vegetables | 3 cups total | Nutrition + volume |
-| Beef mince | 200g | Richness + umami |
+| Pinto/cannellini beans | 1 can | Extra variety |
+| Beef mince | 1 pack | Richness + umami |
 
 ## Ingredients
 
 ### The Protein
-- 2 cans kidney beans, drained and rinsed
+- 1 can kidney beans, drained and rinsed
 - 1 can black beans, drained and rinsed
-- 200g (about 1/2 lb) beef mince
+- 1 can pinto or cannellini beans, drained and rinsed
+- 1 pack beef mince
 
 ### The Vegetables
 - 1 large onion, diced
@@ -123,4 +124,4 @@ Frozen chili keeps 3 months. Future you will send a thank-you note.
 
 ---
 
-*Six servings. Three cans of beans. 200g of beef. A week of meals sorted. That's the 75% way.*
+*Six servings. Three cans of beans. One pack of beef. A week of meals sorted. That's the 75% way.*
