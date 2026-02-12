@@ -1,0 +1,70 @@
+baseURL = 'https://75percentvegan.org/'
+languageCode = 'en-us'
+title = '75% Vegan - Progress Over Perfection'
+theme = 'PaperMod'
+
+[params]
+  description = "The practical approach to plant-based eating. 75% is enough."
+  author = "Luke Koveos"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+[params.homeInfoParams]
+  Title = "75% Vegan: Progress Over Perfection"
+  Content = """
+The rigid all-or-nothing approach to veganism doesn't work for most people. 
+**75% Vegan** is about making a real impact through achievable, sustainable change.
+
+Eat plant-based most of the time. Enjoy flexibility when you need it. Make a difference without the dogma.
+"""
+
+[[params.socialIcons]]
+  name = "youtube"
+  url = "https://youtube.com/@75percentvegan"
+
+[[params.socialIcons]]
+  name = "youtube" 
+  url = "https://youtube.com/@trashmanimal"
+
+[menu]
+  [[menu.main]]
+    identifier = "recipes"
+    name = "Recipes"
+    url = "/recipes/"
+    weight = 10
+  [[menu.main]]
+    identifier = "philosophy"
+    name = "Philosophy"
+    url = "/philosophy/"
+    weight = 20
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 30
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
