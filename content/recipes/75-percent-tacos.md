@@ -101,6 +101,14 @@ Warm your shells. Load them up. Don't be shy with the toppings.
 - **Nachos:** Same filling, over chips with melted cheese
 - **Lettuce wraps:** Low-carb version
 
+### Be Kind to Future Self
+The taco filling freezes brilliantly — make extra:
+- **Tonight:** Taco night with all the toppings
+- **Tomorrow:** Reheat the filling for a quick taco bowl over rice
+- **Next week:** Frozen filling → nachos in 10 minutes
+
+Freeze the cooked filling in portions. It keeps 3 months and tastes just as good reheated. The shells, toppings, and cheese are fresh each time — the hard work is already done.
+
 ### The TVP Question
 "What the hell is TVP?"
 

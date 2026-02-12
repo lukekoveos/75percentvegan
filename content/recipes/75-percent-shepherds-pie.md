@@ -109,6 +109,14 @@ Let it sit 5 minutes before serving. The filling needs to set slightly, and you 
 - **Individual pies:** Use ramekins for portion control and Instagram appeal
 - **Add a layer:** Spread a thin layer of Dijon mustard between filling and mash. Thank me later.
 
+### Be Kind to Future Self
+This recipe feeds 8. Use it wisely:
+- **Eat half tonight** (it's comfort food, you'll want seconds)
+- **Portion the rest** into individual containers
+- **Freeze them** — these reheat brilliantly at 180°C for 20 minutes from frozen
+
+A frozen shepherd's pie on a cold night is an act of self-love. Future you deserves it.
+
 ### Why Mushrooms Are Your Secret Weapon
 In the 75% kitchen, mushrooms are the MVP. They're cheap, packed with umami (the "meaty" taste), and when finely chopped, they literally disappear into any dish. Bolognaise, chili, pie filling, burgers — mushrooms make everything taste more like meat.
 

@@ -100,6 +100,14 @@ Over pasta. With bread. Straight from the pan. We don't judge.
 - **BBQ meatballs:** Skip the tomato sauce, toss in BBQ sauce, serve as appetizers
 - **Sub sandwich:** Stuff into a hoagie roll with melted cheese
 
+### Be Kind to Future Self
+This recipe makes a big batch. Here's the plan:
+- **Eat tonight** with pasta and sauce
+- **Fridge a portion** for tomorrow's lunch (sub sandwich, anyone?)
+- **Freeze the rest** in bags of 4-5 meatballs — reheat straight from frozen in sauce for 15 minutes
+
+Frozen meatballs keep 3 months. Wednesday-night-you will be grateful.
+
 ### The Lentil Secret
 Lentils are the unsung hero of 75% cooking. They're cheap (£1 a can), packed with protein and fiber, and they take on whatever flavor you throw at them. Cooked lentils in meatballs = invisible. The texture blends right in.
 
