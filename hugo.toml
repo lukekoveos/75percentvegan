@@ -12,8 +12,8 @@ theme = 'PaperMod'
   author = "Luke Koveos"
   keywords = ["75% vegan", "flexitarian", "plant-based", "reduce meat", "sustainable eating", "easy vegan recipes"]
   
-  # SoundCloud integration - UPDATE THIS WITH ACTUAL URL
-  # soundcloudUrl = "https://soundcloud.com/YOUR-PROFILE/YOUR-TRACK"
+  # SoundCloud integration
+  soundcloudUrl = "https://api.soundcloud.com/playlists/1789521009"
   
   ShowReadingTime = true
   ShowShareButtons = true
@@ -62,7 +62,7 @@ Eat plant-based most of the time. Enjoy flexibility when you need it. Make a dif
   # Social icons
   [[params.socialIcons]]
     name = "soundcloud"
-    url = "#" # TODO: Update with actual SoundCloud URL
+    url = "https://soundcloud.com/luke-koveos"
 
   [[params.socialIcons]]
     name = "youtube"

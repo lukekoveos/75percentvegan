@@ -1,56 +1,34 @@
 ---
-title: "The 75% Vegan Music Project"
+title: "The 75% Vegan Song"
 date: 2026-02-12
 draft: false
-description: "Music from the 75% Vegan movement. A song for everyone, in everyone's language."
+ShowToc: false
 ---
 
-## 🎵 A Song for Everyone
+## Music for the Movement
 
-The 75% Vegan movement started with music.
+The 75% Vegan philosophy isn't just about food — it's a movement. And every movement needs a soundtrack.
 
-A song in 30 musical styles. Almost as many languages. A message of hope that transcends borders and diets alike.
+Luke created **World Songs with a Strong Message** — over 40 versions of the same song in different languages, all delivering the message of eating more plants and less meat.
 
-Because change doesn't come from preaching. It comes from connection.
-
----
-
-## The World Music Festival
-
-The 75% Vegan World Music Movement Festival promotes a worldwide shift towards a less meat, more veg diet.
-
-True Vegan or Vegetarian can be a bridge too far for many. And if the bridge is too far... why start?
-
-Let's readdress the definition. Make a more achievable target. One that **all** can aim for.
+**The message is simple:** You don't need to be 100% vegan. 50%, 60%, 75% is far more achievable for far more people. The total change would be massive.
 
 ---
 
-## Listen
+## Listen to the Playlist
 
-<!-- TODO: Replace with actual SoundCloud embed -->
-<!-- Use the shortcode: {{< soundcloud url="YOUR_SOUNDCLOUD_URL" >}} -->
-
-*Coming soon: Full playlist embed*
-
-In the meantime, connect with us:
-
-- [SoundCloud](#) <!-- TODO: Add actual link -->
-- [YouTube: @75percentvegan](https://youtube.com/@75percentvegan)
-- [YouTube: @trashmanimal](https://youtube.com/@trashmanimal)
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1789521009&color=%2300cc11&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-## Why Music?
+## About the Project
 
-Food connects people. So does music.
+This started as a creative experiment: What if one message could reach people in their own language? Not preaching, not lecturing — just a simple song saying "eat a bit more veg."
 
-Both are universal languages. Both are better when shared. Both are about enjoyment, not perfection.
+Over 40 versions. Multiple languages. One message.
 
-You don't have to be a professional musician to enjoy music.  
-You don't have to be 100% vegan to make a difference.
-
-**75% is enough. In everything.**
+**Join the movement. Spread the 75% approach.**
 
 ---
 
-*Want to contribute to the music project? [Get in touch](#).*
+**Want to contribute a version in your language?** Reach out via [about](/about/).
