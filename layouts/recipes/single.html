@@ -67,12 +67,14 @@
     {{- end }}
   },
   {{- end }}
-  "suitableForDiet": "https://schema.org/VegetarianDiet",
+  "suitableForDiet": "https://schema.org/VegetarianDiet"
+  {{- if and .Params.rating .Params.ratingCount }},
   "aggregateRating": {
     "@type": "AggregateRating",
-    "ratingValue": "{{ .Params.rating | default 4.5 }}",
-    "ratingCount": "{{ .Params.ratingCount | default 1 }}"
+    "ratingValue": "{{ .Params.rating }}",
+    "ratingCount": "{{ .Params.ratingCount }}"
   }
+  {{- end }}
 }
 </script>
 
