@@ -7,7 +7,7 @@ ShowReadingTime: false
 tags: ["dinner", "asian", "tofu", "batch-cooking", "75-principle"]
 categories: ["recipes"]
 description: "Sticky, sweet, soy-glazed pork and tofu. Three packs tofu, one pack meat. Dangerously moreish."
-image: ""
+image: "/images/recipes/steps/sweetmeat-hero.jpg"
 prepTime: "20 minutes"
 cookTime: "45 minutes"
 servings: 6
@@ -75,7 +75,7 @@ Leave them alone for 3-4 minutes until golden on the bottom. Flip. Another 3 min
 
 ### 3. Brown the Pork
 
-![Browning the pork](/images/recipes/steps/browning-meat.jpg)
+<!-- No step image for pork browning -->
 Same pan, bit more oil if needed. Add the pork pieces in a single layer. Season with salt and pepper. Let them sit and brown — 4-5 minutes without touching. Flip and brown the other side. You want colour, not grey steamed meat.
 
 {{< recipe-tip title="Food Safety" type="safety" >}}
@@ -90,11 +90,16 @@ Turn heat to medium. Add the onions to the pan. Cook for 8-10 minutes until soft
 Add the garlic and ginger. Cook 1 minute. If you're using star anise or five spice, add them now.
 
 ### 5. The Sauce and the Slow Cook
+
+![Dark soy and sugar sauce caramelizing](/images/recipes/steps/sweetmeat-4-sauce.jpg)
+
 Mix the soy sauces, sugar, vinegar, and water together in a jug. Pour into the pan. Bring to a simmer.
 
 Add the pork back in. Cover and cook on low for 20 minutes — the pork needs to get tender.
 
 Add the tofu and any peppers or chillies. Cook uncovered for another 10-15 minutes, turning everything gently now and then. The sauce should reduce to a dark, sticky glaze that coats everything.
+
+![Finished dish — tofu and pork in sticky glaze](/images/recipes/steps/sweetmeat-5-together.jpg)
 
 ### 6. Taste and Adjust
 This is the important bit. Taste it. Too sweet? Splash more soy sauce. Not sweet enough? More sugar. Needs funk? Dash of fish sauce. Needs heat? Chilli flakes. Flat? Squeeze of lime.
@@ -103,7 +108,7 @@ There's no "correct" here. It's done when it tastes right to you.
 
 ### 7. Serve
 
-![Served with jasmine rice](/images/recipes/steps/rice-bowl.jpg)
+![Served over rice in a ceramic bowl](/images/recipes/steps/sweetmeat-6-plated.jpg)
 Pile it over jasmine rice. Scatter spring onions and sesame seeds on top. Eat.
 
 ## Be Kind to Future Self
