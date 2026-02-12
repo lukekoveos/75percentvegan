@@ -1,0 +1,31 @@
+{{/* SoundCloud embed shortcode */}}
+{{/* Usage: {{< soundcloud url="https://soundcloud.com/..." >}} */}}
+{{/* Or: {{< soundcloud id="123456789" >}} */}}
+
+{{ $url := .Get "url" }}
+{{ $id := .Get "id" }}
+{{ $color := .Get "color" | default "2D5016" }}
+
+<div class="soundcloud-embed" style="margin: 1.5rem 0;">
+  {{ if $url }}
+  <iframe 
+    width="100%" 
+    height="166" 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url={{ $url | urlquery }}&color=%23{{ $color }}&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false">
+  </iframe>
+  {{ else if $id }}
+  <iframe 
+    width="100%" 
+    height="166" 
+    scrolling="no" 
+    frameborder="no" 
+    allow="autoplay"
+    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ $id }}&color=%23{{ $color }}&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false">
+  </iframe>
+  {{ else }}
+  <p style="color: #E07A2F; font-style: italic;">⚠️ SoundCloud: Please provide a URL or track ID</p>
+  {{ end }}
+</div>

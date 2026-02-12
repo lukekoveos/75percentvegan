@@ -1,0 +1,31 @@
+{{/* Recipe tip callout box */}}
+{{/* Usage: {{< recipe-tip >}}Your tip here{{< /recipe-tip >}} */}}
+{{/* Or with title: {{< recipe-tip title="Pro Move" >}}...{{< /recipe-tip >}} */}}
+
+{{ $title := .Get "title" | default "💡 Tip" }}
+{{ $type := .Get "type" | default "tip" }}
+
+{{ $bgColor := "#F5A962" }}
+{{ $borderColor := "#E07A2F" }}
+{{ $icon := "💡" }}
+
+{{ if eq $type "warning" }}
+  {{ $bgColor = "#FFE5E5" }}
+  {{ $borderColor = "#FF6B6B" }}
+  {{ $icon = "⚠️" }}
+{{ else if eq $type "philosophy" }}
+  {{ $bgColor = "#E8F5E9" }}
+  {{ $borderColor = "#2D5016" }}
+  {{ $icon = "🌱" }}
+{{ else if eq $type "variation" }}
+  {{ $bgColor = "#E3F2FD" }}
+  {{ $borderColor = "#2196F3" }}
+  {{ $icon = "🔄" }}
+{{ end }}
+
+<div class="callout callout-{{ $type }}" style="background: {{ $bgColor }}; border-left: 4px solid {{ $borderColor }}; padding: 1rem 1.5rem; border-radius: 8px; margin: 1.5rem 0;">
+  <strong style="color: {{ $borderColor }};">{{ $icon }} {{ $title }}</strong>
+  <div style="margin-top: 0.5rem;">
+    {{ .Inner | markdownify }}
+  </div>
+</div>

@@ -1,0 +1,341 @@
+/* 75% Vegan Custom Styles */
+/* Override PaperMod with warmer, food-friendly palette */
+
+:root {
+  /* Primary palette */
+  --primary: #2D5016;
+  --primary-light: #4A7A2B;
+  --accent: #E07A2F;
+  --accent-light: #F5A962;
+  
+  /* Backgrounds */
+  --bg-cream: #FEFAE0;
+  --bg-warm: #F5F0E1;
+  
+  /* Text */
+  --text-dark: #1a1a1a;
+  --text-muted: #5a5a5a;
+  
+  /* Override PaperMod theme vars */
+  --theme: var(--bg-cream);
+  --entry: #fff;
+  --primary: #2D5016;
+  --secondary: #5a5a5a;
+  --tertiary: #f0ebe0;
+  --content: var(--text-dark);
+  --hljs-bg: #2d2d2d;
+  --code-bg: #f5f0e1;
+  --border: #e0d8c8;
+}
+
+/* Hero section for homepage */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: white;
+  padding: 4rem 2rem;
+  margin: -20px -20px 2rem -20px;
+  text-align: center;
+  border-radius: 0 0 20px 20px;
+}
+
+.hero-section h1 {
+  font-size: 3.5rem;
+  font-weight: 800;
+  margin-bottom: 0.5rem;
+  letter-spacing: -2px;
+}
+
+.hero-section .tagline {
+  font-size: 1.4rem;
+  opacity: 0.95;
+  margin-bottom: 2rem;
+  font-weight: 400;
+}
+
+.hero-cta {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.hero-cta a {
+  padding: 0.8rem 2rem;
+  border-radius: 50px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.hero-cta a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.hero-cta .primary-btn {
+  background: var(--accent);
+  color: white;
+}
+
+.hero-cta .secondary-btn {
+  background: rgba(255,255,255,0.2);
+  color: white;
+  border: 2px solid white;
+}
+
+/* Recipe cards grid */
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.recipe-card {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.recipe-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.12);
+}
+
+.recipe-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.recipe-card .card-content {
+  padding: 1.25rem;
+}
+
+.recipe-card h3 {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.2rem;
+  color: var(--primary);
+}
+
+.recipe-card .meta {
+  display: flex;
+  gap: 1rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.recipe-card .meta span {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+/* Badge styles */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.badge-signature {
+  background: var(--accent);
+  color: white;
+}
+
+.badge-easy {
+  background: #4CAF50;
+  color: white;
+}
+
+.badge-quick {
+  background: #2196F3;
+  color: white;
+}
+
+/* Recipe page styling */
+.recipe-header {
+  background: var(--bg-warm);
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+
+.recipe-meta-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.recipe-meta-item {
+  text-align: center;
+  padding: 1rem;
+  background: white;
+  border-radius: 8px;
+}
+
+.recipe-meta-item .label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.25rem;
+}
+
+.recipe-meta-item .value {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+/* Callout boxes */
+.callout {
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin: 1.5rem 0;
+}
+
+.callout-philosophy {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-light) 100%);
+  color: white;
+}
+
+.callout-tip {
+  background: var(--accent-light);
+  border-left: 4px solid var(--accent);
+}
+
+.callout-principle {
+  background: var(--bg-warm);
+  border: 2px dashed var(--primary);
+}
+
+/* SoundCloud section */
+.soundcloud-section {
+  background: var(--bg-warm);
+  padding: 2rem;
+  border-radius: 12px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.soundcloud-section h2 {
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+}
+
+.soundcloud-section p {
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+}
+
+/* Stats section */
+.stats-section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  padding: 2rem;
+  background: var(--bg-warm);
+  border-radius: 12px;
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.stat-item .number {
+  font-size: 3rem;
+  font-weight: 800;
+  color: var(--primary);
+}
+
+.stat-item .label {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+/* Section headers */
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.section-header h2 {
+  color: var(--primary);
+  margin: 0;
+}
+
+.section-header a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Footer social icons color override */
+.social-icons a {
+  color: var(--primary);
+}
+
+.social-icons a:hover {
+  color: var(--accent);
+}
+
+/* Tables in recipes */
+article table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+article th {
+  background: var(--primary);
+  color: white;
+  padding: 0.75rem;
+  text-align: left;
+}
+
+article td {
+  padding: 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+
+article tr:last-child td {
+  border-bottom: none;
+}
+
+/* Print-friendly recipe */
+@media print {
+  .hero-section,
+  .soundcloud-section,
+  nav,
+  footer {
+    display: none !important;
+  }
+  
+  article {
+    max-width: 100% !important;
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .hero-section h1 {
+    font-size: 2.5rem;
+  }
+  
+  .recipe-meta-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .stats-section {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,27 @@
+{{/* The 75% Principle box - use in recipes to show the ratio */}}
+{{/* Usage: {{< principle-box plant="75" meat="25" >}} */}}
+
+{{ $plant := .Get "plant" | default "75" }}
+{{ $meat := .Get "meat" | default "25" }}
+
+<div style="background: linear-gradient(135deg, #2D5016 0%, #4A7A2B 100%); color: white; padding: 1.5rem 2rem; border-radius: 12px; margin: 1.5rem 0; text-align: center;">
+  <div style="font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; opacity: 0.9; margin-bottom: 0.5rem;">
+    🌱 The 75% Principle
+  </div>
+  <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1rem;">
+    <div>
+      <div style="font-size: 2.5rem; font-weight: 800;">{{ $plant }}%</div>
+      <div style="font-size: 0.9rem; opacity: 0.9;">Plant-Based</div>
+    </div>
+    <div style="font-size: 2rem; display: flex; align-items: center;">+</div>
+    <div>
+      <div style="font-size: 2.5rem; font-weight: 800;">{{ $meat }}%</div>
+      <div style="font-size: 0.9rem; opacity: 0.9;">Meat</div>
+    </div>
+    <div style="font-size: 2rem; display: flex; align-items: center;">=</div>
+    <div>
+      <div style="font-size: 2.5rem; font-weight: 800;">100%</div>
+      <div style="font-size: 0.9rem; opacity: 0.9;">Delicious</div>
+    </div>
+  </div>
+</div>

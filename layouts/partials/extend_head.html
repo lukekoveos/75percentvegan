@@ -1,0 +1,27 @@
+<!-- Custom head extensions for 75% Vegan -->
+
+<!-- Preconnect to external domains -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Custom font (optional but nice) -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<!-- Open Graph defaults -->
+{{ if not .Params.image }}
+<meta property="og:image" content="{{ .Site.BaseURL }}images/og-default.jpg">
+{{ end }}
+
+<!-- Custom meta for recipes -->
+{{ if eq .Section "recipes" }}
+<meta name="twitter:label1" content="Prep time">
+<meta name="twitter:data1" content="{{ .Params.prepTime | default "15 minutes" }}">
+<meta name="twitter:label2" content="Servings">
+<meta name="twitter:data2" content="{{ .Params.servings | default 4 }}">
+{{ end }}
+
+<style>
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+</style>
