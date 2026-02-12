@@ -122,6 +122,7 @@ More salt? Probably yes. More heat? Your call. More cumin? Never a bad idea.
 - **Chili dogs:** You know what to do
 - **Stuffed peppers:** Hollow out bell peppers, fill with chili, bake 25 min at 180°C
 - **Chili cheese fries:** Because sometimes you just need it
+- **Espresso chili:** Add a shot or two of espresso with the tomatoes. Same principle as the cocoa — deepens everything without tasting like coffee. Competition chili secret.
 
 ### Batch Cooking Hero
 This recipe makes 6 big portions. Here's what to do with them:
