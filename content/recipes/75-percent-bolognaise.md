@@ -33,6 +33,8 @@ Your meat-loving family won't notice. Your conscience will thank you.
 
 *Okay, it's actually more like 87% plant-based. Even better.*
 
+![All the ingredients laid out](/images/recipes/steps/bolognaise-1-ingredients.jpg)
+
 ## Ingredients
 
 ### The Protein Mix
@@ -69,7 +71,7 @@ Your meat-loving family won't notice. Your conscience will thank you.
 
 ### 1. Brown the Proteins
 
-![Browning the mince in a hot pan](/images/recipes/steps/browning-meat.jpg)
+![Browning the mince in a hot pan](/images/recipes/steps/bolognaise-2-browning.jpg)
 
 Heat a large, heavy-bottomed pan (or Dutch oven) over medium-high heat. Brown the beef mince first — let it get some color. Remove and set aside.
 
@@ -84,11 +86,14 @@ Add the garlic. Cook 1 minute until fragrant.
 
 ### 3. The Spice Magic
 
-![Adding the spice mix](/images/recipes/steps/adding-spices.jpg)
+![Adding the spice mix](/images/recipes/steps/bolognaise-3-spices.jpg)
 
 Add all your spices: cinnamon, star anise, cloves, nutmeg, oregano, paprika. Stir everything together. Cook for 2 minutes — your kitchen should smell incredible.
 
 ### 4. Deglaze with Wine
+
+![Deglazing with red wine](/images/recipes/steps/bolognaise-4-wine.jpg)
+
 Pour in the red wine. Let it bubble and scrape up any fond from the bottom of the pan. This is where the flavor lives.
 
 ### 5. Add the Proteins Back
@@ -96,7 +101,7 @@ Return all the mince to the pan. Stir to combine with the vegetables and spices.
 
 ### 6. The Tomato Stage
 
-![The sauce coming together](/images/recipes/steps/pasta-sauce.jpg)
+![The sauce coming together](/images/recipes/steps/bolognaise-5-simmer.jpg)
 
 Add the chopped tomatoes, passata, and stock. Stir well.
 
@@ -112,7 +117,7 @@ The sauce should be rich, deep, and balanced — not too sweet, not too acidic.
 
 ### 9. Serve
 
-![Ready to serve](/images/recipes/steps/serving-bowl.jpg)
+![Ready to serve](/images/recipes/steps/bolognaise-6-plated.jpg)
 
 Toss with your favorite pasta. Top with fresh basil if you have it. Parmesan is not 75% vegan but hey, nothing is sacred.
 
