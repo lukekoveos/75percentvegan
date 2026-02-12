@@ -58,7 +58,7 @@ Nothing fancy. Nothing sacred. Just good food.
 
 ### 1. Press and Prep the Tofu
 
-![Slicing the tofu](/images/recipes/steps/tofu-slicing.jpg)
+![Preparing the tofu](/images/recipes/steps/sweetmeat-1-tofu-prep.jpg)
 
 {{< recipe-tip title="The Tofu Secret" type="technique" >}}
 Firm tofu needs pressing. Wrap each block in a clean tea towel, put it on a board, stick a heavy pan on top. Leave it 15 minutes while you prep everything else. This squeezes out water so it actually browns instead of steaming sadly in the pan. Smoked tofu doesn't need pressing — it's already dense and ready to go.
@@ -67,13 +67,15 @@ Firm tofu needs pressing. Wrap each block in a clean tea towel, put it on a boar
 Once pressed, slice the tofu into rectangles — about 1cm thick, 3-4cm long. Think chunky dominos. Pat dry with kitchen paper.
 
 ### 2. Brown the Tofu
+
+![Golden crispy tofu](/images/recipes/steps/sweetmeat-2-golden-tofu.jpg)
 Heat 2 tbsp neutral oil (vegetable, sunflower, whatever) in your biggest pan or wok over medium-high heat. Lay the tofu pieces in a single layer — don't crowd the pan, do it in batches if needed.
 
 Leave them alone for 3-4 minutes until golden on the bottom. Flip. Another 3 minutes. You want a proper golden crust. Remove and set aside.
 
 ### 3. Brown the Pork
 
-![Browning the meat](/images/recipes/steps/browning-meat.jpg)
+![Browning the pork](/images/recipes/steps/browning-meat.jpg)
 Same pan, bit more oil if needed. Add the pork pieces in a single layer. Season with salt and pepper. Let them sit and brown — 4-5 minutes without touching. Flip and brown the other side. You want colour, not grey steamed meat.
 
 {{< recipe-tip title="Food Safety" type="safety" >}}
