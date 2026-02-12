@@ -3,6 +3,7 @@ title: "The 75% Vegan Philosophy"
 date: 2026-02-12
 draft: false
 ShowToc: false
+description: "Why the 75% approach works better than perfection. Progress over perfection in plant-based eating - sustainable, achievable, impactful."
 ---
 
 ## Why 75%?

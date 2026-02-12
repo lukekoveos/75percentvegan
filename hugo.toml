@@ -34,9 +34,18 @@ theme = 'PaperMod'
   # SEO
   env = "production"
   
+  # Default meta descriptions per section
+  [params.defaultDescription]
+    home = "The practical approach to plant-based eating. No perfection required. Eat vegan 75% of the time and make a real difference without the dogma."
+    recipes = "Easy plant-based recipes for the 75% vegan lifestyle. Delicious, practical, and achievable for everyone."
+    philosophy = "Learn about the 75% vegan approach - progress over perfection in plant-based eating."
+    blog = "Thoughts, tips, and insights on making sustainable plant-based choices that actually work."
+  
   # Schema.org
   [params.schema]
     publisherType = "Person"
+    enableWebSite = true
+    enableRecipe = true
 
   # Default images for social sharing
   images = ["/images/og-default.jpg"]

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
+
+<head>
+    {{- partial "head.html" . }}
+    {{- partial "extend_head.html" . }}
+    
+    <!-- WebSite Schema.org JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "{{ site.Title }}",
+      "url": "{{ site.BaseURL }}",
+      "description": "{{ site.Params.description }}",
+      "publisher": {
+        "@type": "Person",
+        "name": "{{ site.Params.author }}"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "{{ site.BaseURL }}search/?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      },
+      "inLanguage": "en-US"
+    }
+    </script>
+</head>
+
+<body class="
+{{- if (or (ne .Kind `page` ) (eq .Layout `archives`) (eq .Layout `search`)) -}}
+{{- print "list" -}}
+{{- end -}}
+{{- if eq site.Params.defaultTheme `dark` -}}
+{{- print " dark" }}
+{{- end -}}
+" id="top">
+    {{- partialCached "header.html" . .Page -}}
+    <main class="main">
+        {{- block "main" . }}{{ end }}
+    </main>
+    {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+</body>
+
+</html>

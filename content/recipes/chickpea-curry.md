@@ -4,6 +4,11 @@ date: 2026-02-12
 draft: false
 tags: ["dinner", "curry", "quick"]
 categories: ["recipes"]
+description: "Simple chickpea curry using pantry staples. Ready in 20 minutes with coconut milk, curry powder, and canned chickpeas. Better than takeout."
+prepTime: "5 minutes"
+cookTime: "15 minutes"
+servings: 4
+difficulty: "beginner"
 ---
 
 ## Why This Works

@@ -1,0 +1,161 @@
+{{- define "main" }}
+
+<!-- Recipe Schema.org JSON-LD -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Recipe",
+  "name": "{{ .Title }}",
+  "description": "{{ .Description | default .Summary }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  {{- if .Params.image }}
+  "image": "{{ .Params.image | absURL }}",
+  {{- else }}
+  "image": "{{ .Site.BaseURL }}images/og-default.jpg",
+  {{- end }}
+  "recipeCategory": "{{ if in .Params.tags "breakfast" }}Breakfast{{ else if in .Params.tags "lunch" }}Lunch{{ else if in .Params.tags "dinner" }}Dinner{{ else }}Main Course{{ end }}",
+  "recipeCuisine": "{{ .Params.cuisine | default "Plant-Based" }}",
+  "keywords": "{{ delimit .Params.tags ", " }}",
+  {{- if .Params.prepTime }}
+  "prepTime": "{{ .Params.prepTime | replaceRE `(\d+)\s*min.*` "PT$1M" | replaceRE `(\d+)\s*hour.*` "PT$1H" }}",
+  {{- end }}
+  {{- if .Params.cookTime }}
+  "cookTime": "{{ .Params.cookTime | replaceRE `(\d+)\s*min.*` "PT$1M" | replaceRE `(\d+)\s*hour.*` "PT$1H" }}",
+  {{- end }}
+  {{- if and .Params.prepTime .Params.cookTime }}
+  "totalTime": "{{ add (int (replaceRE `[^\d]` "" .Params.prepTime)) (int (replaceRE `[^\d]` "" .Params.cookTime)) | printf "PT%dM" }}",
+  {{- end }}
+  {{- if .Params.servings }}
+  "recipeYield": "{{ .Params.servings }} servings",
+  {{- end }}
+  "recipeIngredient": [
+    {{- $content := .RawContent }}
+    {{- $ingredients := findRE `(?m)^[-*]\s+.+$` $content }}
+    {{- range $index, $item := $ingredients }}
+    {{- $cleaned := replaceRE `^[-*]\s+` "" $item }}
+    "{{ $cleaned | plainify | htmlUnescape }}"{{ if ne (add $index 1) (len $ingredients) }},{{ end }}
+    {{- end }}
+  ],
+  "recipeInstructions": [
+    {{- $steps := findRE `(?m)^###\s+\d+\..+` $content }}
+    {{- range $index, $step := $steps }}
+    {
+      "@type": "HowToStep",
+      "position": {{ add $index 1 }},
+      "text": "{{ $step | replaceRE `^###\s+\d+\.\s+` "" | plainify | htmlUnescape }}"
+    }{{ if ne (add $index 1) (len $steps) }},{{ end }}
+    {{- end }}
+  ],
+  {{- if .Params.nutrition }}
+  "nutrition": {
+    "@type": "NutritionInformation",
+    {{- with .Params.nutrition.calories }}
+    "calories": "{{ . }} calories",
+    {{- end }}
+    {{- with .Params.nutrition.protein }}
+    "proteinContent": "{{ . }}",
+    {{- end }}
+    {{- with .Params.nutrition.carbs }}
+    "carbohydrateContent": "{{ . }}",
+    {{- end }}
+    {{- with .Params.nutrition.fat }}
+    "fatContent": "{{ . }}"
+    {{- end }}
+  },
+  {{- end }}
+  "suitableForDiet": "https://schema.org/VegetarianDiet",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ .Params.rating | default 4.5 }}",
+    "ratingCount": "{{ .Params.ratingCount | default 1 }}"
+  }
+}
+</script>
+
+<article class="post-single">
+  <header class="post-header">
+    {{ partial "breadcrumbs.html" . }}
+    <h1 class="post-title">
+      {{ .Title }}
+      {{- if .Draft }}<sup><span class="entry-isdraft">&nbsp;&nbsp;[draft]</span></sup>{{- end }}
+    </h1>
+    {{- if .Description }}
+    <div class="post-description">
+      {{ .Description }}
+    </div>
+    {{- end }}
+    
+    <!-- Recipe Meta Info -->
+    {{- if or .Params.prepTime .Params.cookTime .Params.servings }}
+    <div class="recipe-meta" style="display: flex; gap: 1.5rem; margin: 1rem 0; padding: 1rem; background: var(--entry); border-radius: 8px;">
+      {{- if .Params.prepTime }}
+      <div>
+        <strong>⏱️ Prep:</strong> {{ .Params.prepTime }}
+      </div>
+      {{- end }}
+      {{- if .Params.cookTime }}
+      <div>
+        <strong>🔥 Cook:</strong> {{ .Params.cookTime }}
+      </div>
+      {{- end }}
+      {{- if .Params.servings }}
+      <div>
+        <strong>🍽️ Servings:</strong> {{ .Params.servings }}
+      </div>
+      {{- end }}
+      {{- if .Params.difficulty }}
+      <div>
+        <strong>📊 Difficulty:</strong> {{ .Params.difficulty }}
+      </div>
+      {{- end }}
+    </div>
+    {{- end }}
+    
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+  {{- $isHidden := .Params.cover.hidden | default site.Params.cover.hiddenInSingle | default site.Params.cover.hidden }}
+  {{- partial "cover.html" (dict "cxt" . "IsHome" false "isHidden" $isHidden) }}
+  {{- if (.Param "ShowToc") }}
+  {{- partial "toc.html" . }}
+  {{- end }}
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+
+  <footer class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+</article>
+
+{{- end }}{{/* end main */}}

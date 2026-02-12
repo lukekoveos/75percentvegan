@@ -7,9 +7,37 @@
 <!-- Custom font (optional but nice) -->
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-<!-- Open Graph defaults -->
-{{ if not .Params.image }}
+<!-- Enhanced Meta Description -->
+{{ if .Description }}
+<meta name="description" content="{{ .Description }}">
+{{ else if .IsHome }}
+<meta name="description" content="{{ .Site.Params.description }}">
+{{ else if .Section }}
+<meta name="description" content="{{ index .Site.Params.defaultDescription .Section | default .Summary }}">
+{{ else }}
+<meta name="description" content="{{ .Summary | truncate 160 }}">
+{{ end }}
+
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}">
+<meta property="og:description" content="{{ .Description | default .Summary | default .Site.Params.description }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+{{ if .Params.image }}
+<meta property="og:image" content="{{ .Params.image | absURL }}">
+{{ else }}
 <meta property="og:image" content="{{ .Site.BaseURL }}images/og-default.jpg">
+{{ end }}
+
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+<meta name="twitter:description" content="{{ .Description | default .Summary | default .Site.Params.description | truncate 160 }}">
+{{ if .Params.image }}
+<meta name="twitter:image" content="{{ .Params.image | absURL }}">
+{{ else }}
+<meta name="twitter:image" content="{{ .Site.BaseURL }}images/og-default.jpg">
 {{ end }}
 
 <!-- Custom meta for recipes -->
@@ -19,6 +47,9 @@
 <meta name="twitter:label2" content="Servings">
 <meta name="twitter:data2" content="{{ .Params.servings | default 4 }}">
 {{ end }}
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ .Permalink }}">
 
 <style>
   body {

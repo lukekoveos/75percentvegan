@@ -1,0 +1,15 @@
+# robots.txt for 75percentvegan.org
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://75percentvegan.org/sitemap.xml
+
+# Crawl-delay (optional - be nice to the server)
+# Crawl-delay: 1
+
+# Block specific bots if needed (currently allowing all)
+# User-agent: BadBot
+# Disallow: /

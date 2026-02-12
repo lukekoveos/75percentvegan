@@ -3,6 +3,7 @@ title: "The 75% Vegan Song"
 date: 2026-02-12
 draft: false
 ShowToc: false
+description: "Music for the movement. Over 40 songs in multiple languages spreading the message: eat more plants, less meat. No perfection required."
 ---
 
 ## Music for the Movement

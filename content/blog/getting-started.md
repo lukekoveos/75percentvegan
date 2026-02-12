@@ -4,6 +4,7 @@ date: 2026-02-12
 draft: false
 tags: ["getting-started", "tips"]
 categories: ["blog"]
+description: "Simple steps to start eating 75% plant-based without overthinking it. No rigid rules, no perfection required - just practical changes that stick."
 ---
 
 ## Step 1: Stop Calling It a Diet
