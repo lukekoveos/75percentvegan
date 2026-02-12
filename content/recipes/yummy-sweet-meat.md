@@ -58,6 +58,8 @@ Nothing fancy. Nothing sacred. Just good food.
 
 ### 1. Press and Prep the Tofu
 
+![Slicing the tofu](/images/recipes/steps/tofu-slicing.jpg)
+
 {{< recipe-tip title="The Tofu Secret" type="technique" >}}
 Firm tofu needs pressing. Wrap each block in a clean tea towel, put it on a board, stick a heavy pan on top. Leave it 15 minutes while you prep everything else. This squeezes out water so it actually browns instead of steaming sadly in the pan. Smoked tofu doesn't need pressing — it's already dense and ready to go.
 {{< /recipe-tip >}}
@@ -70,6 +72,8 @@ Heat 2 tbsp neutral oil (vegetable, sunflower, whatever) in your biggest pan or 
 Leave them alone for 3-4 minutes until golden on the bottom. Flip. Another 3 minutes. You want a proper golden crust. Remove and set aside.
 
 ### 3. Brown the Pork
+
+![Browning the meat](/images/recipes/steps/browning-meat.jpg)
 Same pan, bit more oil if needed. Add the pork pieces in a single layer. Season with salt and pepper. Let them sit and brown — 4-5 minutes without touching. Flip and brown the other side. You want colour, not grey steamed meat.
 
 {{< recipe-tip title="Food Safety" type="safety" >}}
@@ -96,6 +100,8 @@ This is the important bit. Taste it. Too sweet? Splash more soy sauce. Not sweet
 There's no "correct" here. It's done when it tastes right to you.
 
 ### 7. Serve
+
+![Served with jasmine rice](/images/recipes/steps/rice-bowl.jpg)
 Pile it over jasmine rice. Scatter spring onions and sesame seeds on top. Eat.
 
 ## Be Kind to Future Self

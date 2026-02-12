@@ -67,6 +67,8 @@ Smoked tofu in a curry is a cheat code. It's already got umami and smokiness bui
 {{< /recipe-tip >}}
 
 ### 3. Build the Curry Base
+
+![Building the curry](/images/recipes/steps/curry-cooking.jpg)
 Turn heat to medium. Add the onions. Cook 8-10 minutes until golden and soft. Add garlic, ginger, and chillies. Cook 2 minutes.
 
 Add ALL the spices (except garam masala). Stir for 1 minute until fragrant and the onions are coated.

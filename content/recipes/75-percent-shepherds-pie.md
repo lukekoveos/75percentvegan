@@ -64,6 +64,8 @@ This version keeps all of that. We just swapped most of the lamb for lentils and
 Peel and chop potatoes into chunks. Boil in salted water for 15-20 minutes until fork-tender. Drain, mash with butter and milk until smooth and creamy. Season. Set aside.
 
 ### 2. Brown the Lamb
+
+![Browning the meat](/images/recipes/steps/browning-meat.jpg)
 While potatoes boil, heat oil in a large oven-safe skillet or deep pan. Brown the lamb mince, breaking it up. Remove and set aside — leave the fat in the pan.
 
 ### 3. Build the Filling
@@ -86,6 +88,8 @@ Transfer filling to an oven-safe dish if you haven't been using one. Spoon mash 
 Rough up the surface with a fork — those peaks go golden and crispy.
 
 ### 6. Bake
+
+![Golden topped pie](/images/recipes/steps/pie-golden.jpg)
 25-30 minutes until the top is golden and the filling is bubbling around the edges.
 
 ### 7. Rest

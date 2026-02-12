@@ -60,6 +60,9 @@ So we didn't touch them wrong. These are dense, savory, hold-together-on-a-fork 
 ## Instructions
 
 ### 1. Mash the Lentils
+
+![Preparing the meatball mix](/images/recipes/steps/browning-meat.jpg)
+
 In a bowl, roughly mash the lentils with a fork. You want about half mashed, half whole — gives texture without being mushy.
 
 ### 2. Mix Everything
@@ -73,6 +76,8 @@ Mix until it holds together, then stop. Overworked meatballs = tough meatballs. 
 Roll into golf ball–sized meatballs. You should get about 16. Place on a plate or tray.
 
 ### 4. Brown Them
+
+![Golden meatballs in the pan](/images/recipes/steps/meatballs-pan.jpg)
 Heat olive oil in a large skillet over medium-high heat. Add meatballs in batches — don't crowd the pan. Brown on all sides, about 2-3 minutes per side. They don't need to cook through yet.
 
 ### 5. Make the Sauce

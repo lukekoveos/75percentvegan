@@ -68,6 +68,9 @@ Your meat-loving family won't notice. Your conscience will thank you.
 ## Instructions
 
 ### 1. Brown the Proteins
+
+![Browning the mince in a hot pan](/images/recipes/steps/browning-meat.jpg)
+
 Heat a large, heavy-bottomed pan (or Dutch oven) over medium-high heat. Brown the beef mince first — let it get some color. Remove and set aside.
 
 In the same pan, brown the soya and pea mince. It won't brown quite the same, but you want it to dry out a bit. Remove and combine with the beef.
@@ -80,6 +83,9 @@ Add the carrots and peppers. Cook another 5 minutes.
 Add the garlic. Cook 1 minute until fragrant.
 
 ### 3. The Spice Magic
+
+![Adding the spice mix](/images/recipes/steps/adding-spices.jpg)
+
 Add all your spices: cinnamon, star anise, cloves, nutmeg, oregano, paprika. Stir everything together. Cook for 2 minutes — your kitchen should smell incredible.
 
 ### 4. Deglaze with Wine
@@ -89,6 +95,9 @@ Pour in the red wine. Let it bubble and scrape up any fond from the bottom of th
 Return all the mince to the pan. Stir to combine with the vegetables and spices.
 
 ### 6. The Tomato Stage
+
+![The sauce coming together](/images/recipes/steps/pasta-sauce.jpg)
+
 Add the chopped tomatoes, passata, and stock. Stir well.
 
 Bring to a simmer, then reduce heat to low. 
@@ -102,6 +111,9 @@ This is important: taste your sauce. Add sugar to cut the acidity of the tomatoe
 The sauce should be rich, deep, and balanced — not too sweet, not too acidic.
 
 ### 9. Serve
+
+![Ready to serve](/images/recipes/steps/serving-bowl.jpg)
+
 Toss with your favorite pasta. Top with fresh basil if you have it. Parmesan is not 75% vegan but hey, nothing is sacred.
 
 **Total time:** About 1 hour 15 minutes  

@@ -31,6 +31,8 @@ This curry is stupid simple, uses pantry staples, and tastes better than takeout
 
 ## Instructions
 
+![Curry coming together](/images/recipes/steps/curry-cooking.jpg)
+
 1. Sauté onion and garlic in a large pan until soft
 2. Add curry powder, cook for 1 minute (smells amazing)
 3. Add tomatoes, coconut milk, chickpeas

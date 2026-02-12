@@ -71,6 +71,9 @@ This is a Sunday-afternoon, fill-the-house-with-smell, eat-it-all-week kind of r
 ## Instructions
 
 ### 1. Brown the Beef
+
+![Browning the beef](/images/recipes/steps/browning-meat.jpg)
+
 Heat a splash of oil in a large pot over medium-high heat. Add the beef mince. Break it up and brown it, about 5 minutes.
 
 ### 2. Soften the Veg
@@ -87,9 +90,15 @@ Yes, cocoa powder in chili. No, it won't taste like chocolate. It adds depth, ri
 Pour in both cans of tomatoes, the tomato paste, and the stock. Stir well.
 
 ### 5. Add the Beans
+
+![Adding the beans](/images/recipes/steps/beans-pot.jpg)
+
 Dump in all three cans of drained beans. Stir.
 
 ### 6. Simmer
+
+![Low and slow](/images/recipes/steps/simmering-pot.jpg)
+
 Bring to a boil, then reduce heat to low. Cover and simmer for 30 minutes minimum. 45 minutes is better. An hour is perfect.
 
 Stir occasionally. Add water if it gets too thick.

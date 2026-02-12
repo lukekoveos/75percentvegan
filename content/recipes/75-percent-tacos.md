@@ -67,6 +67,8 @@ Total protein content is actually *higher* than all-beef tacos. Mind blown? Same
 Pour 2 cups TVP into a bowl. Cover with hot water or vegetable stock. Let sit 10 minutes until rehydrated. Drain excess liquid.
 
 ### 2. Brown the Beef
+
+![Building the taco filling](/images/recipes/steps/browning-meat.jpg)
 In a large skillet over medium-high heat, brown the beef mince. Break it up as it cooks. Once browned, don't remove — we're building on it.
 
 ### 3. Add the Plants
@@ -78,6 +80,8 @@ Add all the spices: cumin, paprika, garlic powder, oregano, chili powder. Stir w
 Add a splash of water if it gets too dry. Finish with lime juice.
 
 ### 5. Taste and Adjust
+
+![Assembling the tacos](/images/recipes/steps/tacos-assembly.jpg)
 This is important. Taste your taco filling. Need more salt? Add it. More cumin? Go for it. More heat? Pile on the chili.
 
 **Nothing is sacred.**

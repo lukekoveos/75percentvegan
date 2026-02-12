@@ -59,6 +59,8 @@ Press the tofu (see Yummy Sweet Meat for the tea-towel method). Slice into recta
 Slice the chicken. Mix the sauce in a bowl. Have everything within arm's reach of the hob. Stir-frying waits for nobody.
 
 ### 2. Crisp the Tofu
+
+![Wok action](/images/recipes/steps/stir-fry-wok.jpg)
 Wok on high heat. 2 tbsp oil. When it's smoking, add the tofu in a single layer. Don't touch it for 2-3 minutes. Flip when golden. Another 2 minutes. Remove.
 
 {{< recipe-tip title="Wok Hei" type="technique" >}}

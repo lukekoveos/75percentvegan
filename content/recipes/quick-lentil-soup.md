@@ -51,6 +51,8 @@ Add cumin, turmeric, and paprika. Stir for 30 seconds until fragrant.
 Pour in the diced tomatoes and vegetable stock. Stir in the lentils.
 
 ### 4. Simmer
+
+![Low and slow](/images/recipes/steps/simmering-pot.jpg)
 Bring to a boil, then reduce heat. Simmer for 15-20 minutes until lentils are soft and starting to break down.
 
 ### 5. Finish
