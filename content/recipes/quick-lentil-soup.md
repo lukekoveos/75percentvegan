@@ -2,9 +2,12 @@
 title: "Quick Lentil Soup"
 date: 2026-02-11
 draft: false
+hideMeta: true
+ShowReadingTime: false
 tags: ["lunch", "soup", "quick", "100-percent"]
 categories: ["recipes"]
 description: "100% plant-based, 100% satisfying. Ready in 25 minutes from pantry staples."
+image: "/images/recipes/lentil-soup.jpg"
 prepTime: "5 minutes"
 cookTime: "20 minutes"
 servings: 4

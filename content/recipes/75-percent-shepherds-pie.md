@@ -2,9 +2,12 @@
 title: "75% Shepherd's Pie"
 date: 2026-02-12
 draft: false
+hideMeta: true
+ShowReadingTime: false
 tags: ["dinner", "comfort-food", "british", "75-principle"]
 categories: ["recipes"]
 description: "The ultimate comfort food, reimagined. Lentils and mushrooms do the work, lamb brings the nostalgia. Topped with proper creamy mash."
+image: "/images/recipes/shepherds-pie.jpg"
 prepTime: "25 minutes"
 cookTime: "35 minutes"
 servings: 6

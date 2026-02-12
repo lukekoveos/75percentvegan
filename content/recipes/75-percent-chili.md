@@ -2,9 +2,12 @@
 title: "75% Chili"
 date: 2026-02-12
 draft: false
+hideMeta: true
+ShowReadingTime: false
 tags: ["dinner", "one-pot", "batch-cooking", "75-principle"]
 categories: ["recipes"]
 description: "A big-batch chili that's 75% beans and veg, 25% beef. Feeds a crowd, freezes brilliantly, tastes like the real deal."
+image: "/images/recipes/chili.jpg"
 prepTime: "15 minutes"
 cookTime: "40 minutes"
 servings: 6

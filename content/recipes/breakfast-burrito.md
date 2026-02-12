@@ -2,9 +2,12 @@
 title: "Protein-Packed Breakfast Burrito"
 date: 2026-02-12
 draft: false
+hideMeta: true
+ShowReadingTime: false
 tags: ["breakfast", "quick", "high-protein"]
 categories: ["recipes"]
 description: "Quick 5-minute breakfast burrito packed with protein. Black beans, eggs (or tofu), and salsa wrapped in a warm tortilla. Easy plant-forward start to your day."
+image: "/images/recipes/breakfast-burrito.jpg"
 prepTime: "5 minutes"
 cookTime: "0 minutes"
 servings: 1

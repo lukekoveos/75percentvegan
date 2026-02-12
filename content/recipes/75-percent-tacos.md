@@ -2,9 +2,12 @@
 title: "75% Tacos"
 date: 2026-02-12
 draft: false
+hideMeta: true
+ShowReadingTime: false
 tags: ["dinner", "tacos", "quick", "75-principle"]
 categories: ["recipes"]
 description: "Classic taco night, 75% plant-based. Black beans, TVP, and just enough beef for that familiar flavor."
+image: "/images/recipes/tacos.jpg"
 prepTime: "15 minutes"
 cookTime: "15 minutes"
 servings: 4
