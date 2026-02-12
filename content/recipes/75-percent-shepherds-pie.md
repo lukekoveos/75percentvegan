@@ -4,7 +4,7 @@ date: 2026-02-12
 draft: false
 hideMeta: true
 ShowReadingTime: false
-tags: ["dinner", "comfort-food", "british", "75-principle"]
+tags: ["dinner", "comfort-food", "british", "batch-cooking", "75-principle"]
 categories: ["recipes"]
 description: "The ultimate comfort food, reimagined. Lentils and mushrooms do the work, lamb brings the nostalgia. Topped with proper creamy mash."
 image: "/images/recipes/shepherds-pie.jpg"

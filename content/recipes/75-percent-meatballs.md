@@ -4,7 +4,7 @@ date: 2026-02-12
 draft: false
 hideMeta: true
 ShowReadingTime: false
-tags: ["dinner", "pasta", "comfort-food", "75-principle"]
+tags: ["dinner", "pasta", "comfort-food", "batch-cooking", "75-principle"]
 categories: ["recipes"]
 description: "Proper meatballs with 75% plant protein. Lentils and oats give the texture, beef gives the flavor. Your nonna would approve."
 image: "/images/recipes/meatballs.jpg"

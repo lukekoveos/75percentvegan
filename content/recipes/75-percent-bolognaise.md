@@ -4,7 +4,7 @@ date: 2026-02-12
 draft: false
 hideMeta: true
 ShowReadingTime: false
-tags: ["dinner", "pasta", "signature", "75-principle"]
+tags: ["dinner", "pasta", "signature", "batch-cooking", "75-principle"]
 categories: ["recipes"]
 description: "The signature 75% Vegan recipe. 75% plant protein, 25% beef. You can't tell the difference."
 image: "/images/recipes/bolognaise.jpg"
