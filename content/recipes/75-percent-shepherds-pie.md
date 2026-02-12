@@ -35,7 +35,7 @@ This version keeps all of that. We just swapped most of the lamb for lentils and
 ## Ingredients
 
 ### The Filling
-- 1 pack lamb mince (or beef — technically cottage pie, but who's counting)
+- 1 pack lamb mince (400-500g — or beef, technically cottage pie, but who's counting)
 - 2 cans green/brown lentils, drained
 - 1 pack mushrooms, finely chopped (chestnut or button)
 - 1 large onion, diced

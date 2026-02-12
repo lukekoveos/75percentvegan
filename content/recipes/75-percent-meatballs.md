@@ -36,7 +36,7 @@ So we didn't touch them wrong. These are dense, savory, hold-together-on-a-fork 
 ### The Meatballs
 - 2 cans green or brown lentils, drained
 - 1 cup rolled oats
-- 1 pack beef mince
+- 1 pack beef mince (400-500g — standard pack size)
 - 2 eggs (the glue)
 - 2 cloves garlic, minced
 - 1 small onion, finely diced

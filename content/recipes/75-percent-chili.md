@@ -38,7 +38,7 @@ This is a Sunday-afternoon, fill-the-house-with-smell, eat-it-all-week kind of r
 - 1 can kidney beans, drained and rinsed
 - 1 can black beans, drained and rinsed
 - 1 can pinto or cannellini beans, drained and rinsed
-- 1 pack beef mince
+- 1 pack beef mince (400-500g — standard pack size)
 
 ### The Vegetables
 - 1 large onion, diced

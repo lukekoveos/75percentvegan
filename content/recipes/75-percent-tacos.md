@@ -40,7 +40,7 @@ Total protein content is actually *higher* than all-beef tacos. Mind blown? Same
 ### The Protein
 - 1 can black beans, drained and rinsed
 - 2 cups TVP, rehydrated in hot water
-- 1 pack beef mince
+- 1 pack beef mince (400-500g — standard pack size)
 
 ### The Seasoning
 - 2 tsp cumin
