@@ -27,9 +27,9 @@ Your meat-loving family won't notice. Your conscience will thank you.
 
 | Component | Amount | Percentage |
 |-----------|--------|------------|
-| Soya mince | 1 pack | 37.5% |
+| Soya mince | 1 pack | 25% |
 | Pea mince | 2 packs | 50% |
-| Beef mince | 1 pack | 12.5% |
+| Beef mince | 1 pack | 25% |
 
 *Okay, it's actually more like 87% plant-based. Even better.*
 
