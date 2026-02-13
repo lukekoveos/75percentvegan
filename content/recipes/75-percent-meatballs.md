@@ -121,3 +121,7 @@ Lentils are the unsung hero of 75% cooking. They're cheap (£1 a can), packed wi
 ---
 
 *16 meatballs. 75% plant-based. Zero complaints from the dinner table. That's progress.*
+
+---
+
+**New to the 75% approach?** Read [How to Get Started](/blog/getting-started/) or learn [The Math Behind 75%](/blog/the-math-behind-75-percent/).

@@ -7,7 +7,7 @@ ShowReadingTime: false
 tags: ["dinner", "asian", "tofu", "quick", "75-principle"]
 categories: ["recipes"]
 description: "A fast, proper stir-fry. Crispy tofu, tender chicken, big flavour. 20 minutes, done."
-image: ""
+image: "/images/recipes/steps/stir-fry-wok.jpg"
 prepTime: "15 minutes"
 cookTime: "15 minutes"
 servings: 6
@@ -102,3 +102,7 @@ This makes 6 portions. The stir-fry itself is best fresh, but it reheats better 
 - **Noodle version:** Cook udon or egg noodles. Toss them in with everything at the end.
 
 Nothing is sacred. Fridge raid. Wok on. Go.
+
+---
+
+**Like this recipe?** Try our [75% Bolognaise](/recipes/75-percent-bolognaise/) or [75% Chili](/recipes/75-percent-chili/). Read [The Math Behind 75%](/blog/the-math-behind-75-percent/) to understand why this works.

@@ -68,3 +68,10 @@ Or just start tomorrow. Make breakfast plant-based. See how it goes.
 ---
 
 *75% isn't a rulebook. It's a guideline. Use it however works for you.*
+
+## Try These First
+
+- **[75% Bolognaise](/recipes/75-percent-bolognaise/)** — the signature recipe that proves the concept
+- **[75% Chili](/recipes/75-percent-chili/)** — a one-pot batch-cooking hero
+- **[Easy Chickpea Curry](/recipes/chickpea-curry/)** — 20 minutes, pantry staples, done
+- **[Breakfast Burrito](/recipes/breakfast-burrito/)** — 5-minute plant-forward start to your day

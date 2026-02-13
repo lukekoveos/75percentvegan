@@ -53,3 +53,7 @@ This curry is stupid simple, uses pantry staples, and tastes better than takeout
 ---
 
 *This is the kind of recipe that makes the 75% approach easy. Quick, cheap, delicious, and you won't miss the meat.*
+
+---
+
+**Want more like this?** Browse all [recipes](/recipes/) or read about [the philosophy](/philosophy/) behind 75% Vegan.

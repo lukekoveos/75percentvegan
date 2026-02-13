@@ -159,3 +159,7 @@ That's the whole point of 75% Vegan. You don't sacrifice taste. You don't sacrif
 *This recipe serves 6+ people or freezes beautifully in portions. Make a big batch on Sunday, eat well all week.*
 
 *The 75% approach in action: same satisfaction, 75% less meat. Everyone wins.*
+
+---
+
+**New to the 75% approach?** Read [How to Get Started](/blog/getting-started/) or learn [The Math Behind 75%](/blog/the-math-behind-75-percent/).

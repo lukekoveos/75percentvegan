@@ -125,3 +125,7 @@ Don't have it? Use an extra can of beans. Or crumbled firm tofu. Or more beef an
 ---
 
 *Four people fed, one night of tacos enjoyed, 75% less meat consumed. That's the whole idea.*
+
+---
+
+**New to the 75% approach?** Read [How to Get Started](/blog/getting-started/) or learn [The Math Behind 75%](/blog/the-math-behind-75-percent/).

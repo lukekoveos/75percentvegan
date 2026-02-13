@@ -7,7 +7,7 @@ ShowReadingTime: false
 tags: ["dinner", "curry", "tofu", "batch-cooking", "75-principle"]
 categories: ["recipes"]
 description: "A slow, rich curry with smoked tofu and lamb. The tofu absorbs everything. The lamb makes it sing."
-image: ""
+image: "/images/recipes/steps/curry-cooking.jpg"
 prepTime: "15 minutes"
 cookTime: "1 hour"
 servings: 8
@@ -105,3 +105,7 @@ This makes 8 big portions. It's a freezer hero.
 - **More veg:** Throw in a diced aubergine with the onions, or a handful of spinach at the end.
 
 Nothing is sacred. It's your curry.
+
+---
+
+**Like this recipe?** Try our [75% Bolognaise](/recipes/75-percent-bolognaise/) or [75% Chili](/recipes/75-percent-chili/). Read [The Math Behind 75%](/blog/the-math-behind-75-percent/) to understand why this works.

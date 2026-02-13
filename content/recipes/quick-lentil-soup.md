@@ -88,3 +88,7 @@ Lentils are the unsung hero of plant-based eating. Stop ignoring them.
 ---
 
 *This is one of those recipes where 100% plant-based is the natural choice. No substitution needed. No sacrifice made. Just good food.*
+
+---
+
+**Want more like this?** Browse all [recipes](/recipes/) or read about [the philosophy](/philosophy/) behind 75% Vegan.

@@ -135,3 +135,7 @@ Frozen chili keeps 3 months. Future you will send a thank-you note.
 ---
 
 *Six servings. Three cans of beans. One pack of beef. A week of meals sorted. That's the 75% way.*
+
+---
+
+**New to the 75% approach?** Read [How to Get Started](/blog/getting-started/) or learn [The Math Behind 75%](/blog/the-math-behind-75-percent/).

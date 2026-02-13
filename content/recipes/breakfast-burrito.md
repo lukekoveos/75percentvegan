@@ -50,3 +50,7 @@ Breakfast is the easiest meal to make plant-based. This burrito is filling, prot
 ---
 
 *Start your day with this and you're already halfway to 75%. Easy win.*
+
+---
+
+**Want more like this?** Browse all [recipes](/recipes/) or read about [the philosophy](/philosophy/) behind 75% Vegan.

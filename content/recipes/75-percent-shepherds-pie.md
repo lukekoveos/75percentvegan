@@ -129,3 +129,7 @@ Buy them on the reduced shelf. They work even better slightly wrinkly.
 ---
 
 *One dish. Feeds six. One pack of lamb stretched across an entire pie. Comfort food without the guilt. That's the 75% promise.*
+
+---
+
+**New to the 75% approach?** Read [How to Get Started](/blog/getting-started/) or learn [The Math Behind 75%](/blog/the-math-behind-75-percent/).

@@ -129,3 +129,7 @@ The tofu actually gets better after freezing — it develops a chewier, meatier 
 - **Use beef:** Swap pork for braising steak. Cut into strips. Same method, add 10 minutes to the slow cook.
 
 Nothing is sacred. Use what you've got.
+
+---
+
+**Like this recipe?** Try our [75% Bolognaise](/recipes/75-percent-bolognaise/) or [75% Chili](/recipes/75-percent-chili/). Read [The Math Behind 75%](/blog/the-math-behind-75-percent/) to understand why this works.
