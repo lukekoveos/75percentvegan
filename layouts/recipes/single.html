@@ -155,9 +155,10 @@
     {{- end }}
   </footer>
 
-  {{- if (.Param "comments") }}
-  {{- partial "comments.html" . }}
-  {{- end }}
+  <!-- Recipe Comments & Ratings -->
+  <div id="recipe-comments"></div>
+  <link rel="stylesheet" href="/css/recipe-comments.css">
+  <script src="/js/recipe-comments.js" defer></script>
 </article>
 
 {{- end }}{{/* end main */}}
