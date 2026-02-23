@@ -72,13 +72,14 @@ Your meat-loving family won't notice. Your conscience will thank you.
 
 ### 1. Brown the Proteins
 
-![Onions sweating with whole spices — cinnamon, star anise, bay leaves, cloves](/images/recipes/bolognese-series/02a-onions-spices-real.jpg)
-
 Heat a large, heavy-bottomed pan (or Dutch oven) over medium-high heat. Brown the beef mince first — let it get some color. Remove and set aside.
 
 In the same pan, brown the soya and pea mince. It won't brown quite the same, but you want it to dry out a bit. Remove and combine with the beef.
 
 ### 2. Build the Base
+
+![Onions sweating with whole spices — cinnamon, star anise, bay leaves, cloves](/images/recipes/bolognese-series/02a-onions-spices-real.jpg)
+
 Add more oil if needed. Sauté the onions until soft and starting to caramelize — this takes 10 minutes, don't rush it.
 
 Add the carrots and peppers. Cook another 5 minutes.
@@ -102,7 +103,7 @@ Return all the mince to the pan. Stir to combine with the vegetables and spices.
 
 ### 6. The Tomato Stage
 
-<!-- Photo coming soon — next cooking session -->
+![The sauce after a long simmer — thick, rich, everything melded together](/images/recipes/bolognese-series/07-long-simmer-done.jpg)
 
 Add the chopped tomatoes, passata, and stock. Stir well.
 
@@ -118,9 +119,11 @@ The sauce should be rich, deep, and balanced — not too sweet, not too acidic.
 
 ### 9. Serve
 
-<!-- Photo coming soon — next cooking session -->
+![Tagliatelle ready to meet the ragù](/images/recipes/bolognese-series/07b-pasta-and-ragu.jpg)
 
 Serve over tagliatelle (the wide flat noodles hold the sauce better than spaghetti). Top with a liberal snow shower of parmesan. Parmesan is not 75% vegan but hey, nothing is sacred.
+
+![The finished bowl — buried under Grana Padano, hot sauce on standby](/images/recipes/bolognese-series/09-served-with-cheese.jpg)
 
 **Total time:** About 1 hour 15 minutes  
 **Difficulty:** Intermediate (but really just requires patience)  
