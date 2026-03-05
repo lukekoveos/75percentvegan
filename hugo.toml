@@ -93,6 +93,11 @@ Eat plant-based most of the time. Enjoy flexibility when you need it. Make a dif
     url = "/recipes/"
     weight = 10
   [[menu.main]]
+    identifier = "health"
+    name = "💚 Health"
+    url = "/health/"
+    weight = 15
+  [[menu.main]]
     identifier = "philosophy"
     name = "🌱 Philosophy"
     url = "/philosophy/"
