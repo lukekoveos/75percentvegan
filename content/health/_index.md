@@ -116,6 +116,11 @@ Want the details? Pick what interests you:
 
 - 🫀 [Your Heart Doesn't Care About Your Opinion of Salad](/health/heart-health-less-meat/) — the cardiovascular data
 - 🦠 [30 Plants a Week: The Gut Microbiome Thing Nobody Told You About](/health/gut-microbiome-30-plants/) — the microbiome angle
+- 🧠 [Your Gut Is Texting Your Brain](/health/gut-brain-axis-mental-health/) — the gut-brain axis and mood
+- 🥦 [Why You're Probably Fiber Deficient](/health/fiber-deficiency-guide/) — the nutrient almost nobody gets enough of
+- 🥓 [Processed Meat and Cancer: The Numbers Without the Drama](/health/processed-meat-cancer-diabetes/) — the WHO data in context
+- 🍳 [Cooking Is Actually Therapy](/health/cooking-therapy-mental-health/) — the mental health benefits of cooking
+- 🎵 [Why the 75% Playlist Might Be Good for Your Blood Pressure](/health/music-stress-health/) — music, cortisol, and stress
 
 Want to skip straight to doing something about it?
 

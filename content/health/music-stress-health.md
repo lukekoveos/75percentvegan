@@ -45,7 +45,7 @@ This doesn't mean listening to the [75% Vegan playlist](/music/) will prevent yo
 
 Here's where the 75% site gets to feel a little smug.
 
-We already know that [cooking has measurable mental health benefits](/health/cooking-mental-health-therapy/). A systematic review by Farmer, Touchton-Leonard & Ross (2018, PMC5862744) found that cooking interventions improve self-esteem, reduce anxiety, and increase psychological wellbeing. The PERMA model research (PMC8071848) shows cooking simultaneously hits five dimensions of wellbeing: Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment.
+We already know that [cooking has measurable mental health benefits](/health/cooking-therapy-mental-health/). A systematic review by Farmer, Touchton-Leonard & Ross (2018, PMC5862744) found that cooking interventions improve self-esteem, reduce anxiety, and increase psychological wellbeing. The PERMA model research (PMC8071848) shows cooking simultaneously hits five dimensions of wellbeing: Positive Emotion, Engagement, Relationships, Meaning, and Accomplishment.
 
 And now we know music independently reduces cortisol and supports immune function.
 
