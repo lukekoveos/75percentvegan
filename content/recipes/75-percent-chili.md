@@ -80,6 +80,9 @@ Heat a splash of oil in a large pot over medium-high heat. Add the beef mince. B
 Add onion, peppers, celery, and carrot. Cook 5-7 minutes until softened. Add garlic, cook 1 minute more.
 
 ### 3. Spice It Up
+
+![Spices blooming into the chili base](/images/recipes/steps/adding-spices.jpg)
+
 Add ALL the spices: chili powder, cumin, paprika, oregano, cayenne, cocoa powder. Stir everything together. Cook for 1 minute until fragrant.
 
 {{< recipe-tip title="The Cocoa Thing" type="philosophy" >}}

@@ -61,7 +61,7 @@ So we didn't touch them wrong. These are dense, savory, hold-together-on-a-fork 
 
 ### 1. Mash the Lentils
 
-![Preparing the meatball mix](/images/recipes/steps/browning-meat.jpg)
+![Lentils, oats, beef, egg and herbs ready to mix](/images/recipes/steps/meatballs-mix.jpg)
 
 In a bowl, roughly mash the lentils with a fork. You want about half mashed, half whole — gives texture without being mushy.
 
@@ -75,9 +75,10 @@ Mix until it holds together, then stop. Overworked meatballs = tough meatballs. 
 ### 3. Shape
 Roll into golf ball–sized meatballs. You should get about 16. Place on a plate or tray.
 
+![Shaped lentil-beef meatballs ready for the pan](/images/recipes/steps/meatballs-pan.jpg)
+
 ### 4. Brown Them
 
-![Golden meatballs in the pan](/images/recipes/steps/meatballs-pan.jpg)
 Heat olive oil in a large skillet over medium-high heat. Add meatballs in batches — don't crowd the pan. Brown on all sides, about 2-3 minutes per side. They don't need to cook through yet.
 
 ### 5. Make the Sauce
@@ -86,8 +87,12 @@ In the same pan (all those brown bits = flavor), add garlic. Cook 30 seconds. Po
 ### 6. Simmer Together
 Nestle the meatballs into the sauce. Reduce heat to low. Cover and simmer 15 minutes until meatballs are cooked through and sauce has thickened.
 
+![Meatballs simmering in tomato sauce](/images/recipes/steps/meatballs-sauce.jpg)
+
 ### 7. Serve
 Over pasta. With bread. Straight from the pan. We don't judge.
+
+![Meatballs served with pasta sauce](/images/recipes/steps/pasta-sauce.jpg)
 
 **Total time:** 45 minutes
 **Difficulty:** Intermediate

@@ -62,19 +62,24 @@ Same pot. Add the smoked and firm tofu pieces. You don't need to press smoked to
 
 Brown the tofu on two sides — 2 minutes each. Remove and set aside.
 
+![Smoked tofu browning before it goes into the curry](/images/recipes/steps/smoked-tofu-curry-tofu.jpg)
+
 {{< recipe-tip title="Why Smoked Tofu" type="philosophy" >}}
 Smoked tofu in a curry is a cheat code. It's already got umami and smokiness built in. When it slow-cooks in spiced coconut sauce, it absorbs everything while keeping its structure. One pack smoked, one pack regular gives you two different textures in the same dish.
 {{< /recipe-tip >}}
 
 ### 3. Build the Curry Base
 
-![Building the curry](/images/recipes/steps/curry-cooking.jpg)
+![Onions, garlic, ginger and spices building the curry base](/images/recipes/steps/smoked-tofu-curry-base.jpg)
+
 Turn heat to medium. Add the onions. Cook 8-10 minutes until golden and soft. Add garlic, ginger, and chillies. Cook 2 minutes.
 
 Add ALL the spices (except garam masala). Stir for 1 minute until fragrant and the onions are coated.
 
 ### 4. The Slow Cook
 Pour in the coconut milk, chopped tomatoes, and stock. Stir and scrape up any browned bits from the bottom — that's flavour.
+
+![The curry sauce coming together for the slow cook](/images/recipes/steps/curry-cooking.jpg)
 
 Add the lamb back in. Bring to a gentle simmer. Cover and cook on low heat for 40 minutes. The lamb needs time to get tender.
 

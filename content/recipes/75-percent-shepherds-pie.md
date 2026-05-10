@@ -71,6 +71,8 @@ While potatoes boil, heat oil in a large oven-safe skillet or deep pan. Brown th
 ### 3. Build the Filling
 In the same pan, cook onion and carrots for 5 minutes until soft. Add mushrooms — cook another 5 minutes until they've released their liquid and started to brown.
 
+![Lamb, lentils, mushrooms and veg becoming the pie filling](/images/recipes/steps/shepherds-pie-filling.jpg)
+
 {{< recipe-tip title="The Mushroom Trick" >}}
 Finely chop the mushrooms so they break down into the filling. Nobody who claims to "hate mushrooms" will find them. They just add deep, savory richness. What they don't know won't hurt them.
 {{< /recipe-tip >}}
@@ -86,6 +88,8 @@ Preheat oven to 200°C (400°F).
 Transfer filling to an oven-safe dish if you haven't been using one. Spoon mash over the top, spreading to the edges (seal those edges — stops the filling bubbling over).
 
 Rough up the surface with a fork — those peaks go golden and crispy.
+
+![Mash spread over the filling and forked into crispy ridges](/images/recipes/steps/shepherds-pie-topping.jpg)
 
 ### 6. Bake
 

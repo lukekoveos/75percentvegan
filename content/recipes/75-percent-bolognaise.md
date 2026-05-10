@@ -76,6 +76,8 @@ Heat a large, heavy-bottomed pan (or Dutch oven) over medium-high heat. Brown th
 
 In the same pan, brown the soya and pea mince. It won't brown quite the same, but you want it to dry out a bit. Remove and combine with the beef.
 
+![Browning the beef and plant mince for the ragù](/images/recipes/bolognese-series/04-frying-meat-v3.jpg)
+
 ### 2. Build the Base
 
 ![Onions sweating with whole spices — cinnamon, star anise, bay leaves, cloves](/images/recipes/bolognese-series/02a-onions-spices-real.jpg)
@@ -94,16 +96,18 @@ Add all your spices: cinnamon, star anise, cloves, nutmeg, oregano, paprika. Sti
 
 ### 4. Deglaze with Wine
 
-<!-- Photo coming soon — next cooking session -->
+![Red wine going into the pan to deglaze the browned bits](/images/recipes/bolognese-series/05-wine-deglaze-v3.jpg)
 
 Pour in the red wine. Let it bubble and scrape up any fond from the bottom of the pan. This is where the flavor lives.
 
 ### 5. Add the Proteins Back
 Return all the mince to the pan. Stir to combine with the vegetables and spices.
 
+![The protein mix back in with the vegetables and spices](/images/recipes/bolognese-series/05-veg-back-in.jpg)
+
 ### 6. The Tomato Stage
 
-![The sauce after a long simmer — thick, rich, everything melded together](/images/recipes/bolognese-series/07-long-simmer-done.jpg)
+![Tomatoes, passata and stock going into the ragù](/images/recipes/bolognese-series/06-tomatoes-stock-v3.jpg)
 
 Add the chopped tomatoes, passata, and stock. Stir well.
 
@@ -111,6 +115,8 @@ Bring to a simmer, then reduce heat to low.
 
 ### 7. The Long Simmer
 Let it bubble gently for at least 30 minutes. The longer the better — an hour is ideal if you have time.
+
+![The sauce after a long simmer — thick, rich, everything melded together](/images/recipes/bolognese-series/07-long-simmer-done.jpg)
 
 ### 8. Balance the Flavors
 This is important: taste your sauce. Add sugar to cut the acidity of the tomatoes. Add vinegar for brightness. Adjust salt and pepper.

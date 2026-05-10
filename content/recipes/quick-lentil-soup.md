@@ -44,11 +44,15 @@ It's also cheap, fast, freezable, and infinitely customizable. Make a pot on Sun
 ### 1. Sauté the Base
 Heat olive oil in a large pot. Add onion, cook until soft (5 minutes). Add garlic and carrots, cook 2 more minutes.
 
+![Onion, carrot and garlic softening for the soup base](/images/recipes/steps/lentil-soup-base.jpg)
+
 ### 2. Add Spices
 Add cumin, turmeric, and paprika. Stir for 30 seconds until fragrant.
 
 ### 3. Add the Liquid
 Pour in the diced tomatoes and vegetable stock. Stir in the lentils.
+
+![Lentils, tomatoes and stock going into the pot](/images/recipes/steps/lentil-soup-liquid.jpg)
 
 ### 4. Simmer
 

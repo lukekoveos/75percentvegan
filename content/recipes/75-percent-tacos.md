@@ -68,11 +68,12 @@ Pour 2 cups TVP into a bowl. Cover with hot water or vegetable stock. Let sit 10
 
 ### 2. Brown the Beef
 
-![Building the taco filling](/images/recipes/steps/browning-meat.jpg)
 In a large skillet over medium-high heat, brown the beef mince. Break it up as it cooks. Once browned, don't remove — we're building on it.
 
 ### 3. Add the Plants
 Add the drained black beans and rehydrated TVP to the skillet with the beef. Stir to combine.
+
+![Black beans and TVP going into the browned beef](/images/recipes/steps/tacos-filling.jpg)
 
 ### 4. Season Everything
 Add all the spices: cumin, paprika, garlic powder, oregano, chili powder. Stir well. Cook for 3-4 minutes until everything is heated through and fragrant.
@@ -81,13 +82,14 @@ Add a splash of water if it gets too dry. Finish with lime juice.
 
 ### 5. Taste and Adjust
 
-![Assembling the tacos](/images/recipes/steps/tacos-assembly.jpg)
 This is important. Taste your taco filling. Need more salt? Add it. More cumin? Go for it. More heat? Pile on the chili.
 
 **Nothing is sacred.**
 
 ### 6. Assemble
 Warm your shells. Load them up. Don't be shy with the toppings.
+
+![Loaded tacos with the 75% filling and fresh toppings](/images/recipes/steps/tacos-assembly-new.jpg)
 
 **Total time:** 30 minutes  
 **Difficulty:** Beginner  

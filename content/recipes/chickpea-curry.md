@@ -31,14 +31,29 @@ This curry is stupid simple, uses pantry staples, and tastes better than takeout
 
 ## Instructions
 
-![Curry coming together](/images/recipes/steps/curry-cooking.jpg)
+### 1. Sauté the Base
+Sauté onion and garlic in a large pan until soft.
 
-1. Sauté onion and garlic in a large pan until soft
-2. Add curry powder, cook for 1 minute (smells amazing)
-3. Add tomatoes, coconut milk, chickpeas
-4. Simmer 15 minutes
-5. Season with salt and pepper
-6. Serve over rice
+### 2. Bloom the Spices
+Add curry powder and cook for 1 minute. It should smell amazing.
+
+![Curry powder blooming into the onion and garlic base](/images/recipes/steps/chickpea-curry-spices.jpg)
+
+### 3. Add the Main Ingredients
+Add tomatoes, coconut milk and chickpeas. Stir everything together.
+
+![Chickpeas, tomatoes and coconut milk coming together](/images/recipes/steps/chickpea-curry-simmer.jpg)
+
+### 4. Simmer
+Simmer for 15 minutes until thickened.
+
+![Curry thickening on the hob](/images/recipes/steps/curry-cooking.jpg)
+
+### 5. Season
+Season with salt and pepper.
+
+### 6. Serve
+Serve over rice or with naan.
 
 **Total time:** 20 minutes  
 **Difficulty:** Beginner  

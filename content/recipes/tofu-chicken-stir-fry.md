@@ -58,6 +58,8 @@ Press the tofu (see Yummy Sweet Meat for the tea-towel method). Slice into recta
 
 Slice the chicken. Mix the sauce in a bowl. Have everything within arm's reach of the hob. Stir-frying waits for nobody.
 
+![Tofu, chicken, vegetables and sauce prepped before the wok goes on](/images/recipes/steps/stir-fry-prep.jpg)
+
 ### 2. Crisp the Tofu
 
 ![Wok action](/images/recipes/steps/stir-fry-wok.jpg)
@@ -73,10 +75,14 @@ Same wok, still screaming hot. Add a splash more oil. Add the chicken strips. Sp
 ### 4. Flash the Veg
 Wok still hot. Another splash of oil. Broccoli and carrots go in first (they take longest) — 2 minutes. Then peppers and mangetout — 1 minute. You want them charred in spots but still crunchy.
 
+![Vegetables flashing through the hot wok](/images/recipes/steps/stir-fry-finish.jpg)
+
 ### 5. Bring It Together
 Turn heat to medium. Everything back in the wok — tofu, chicken, veg. Give the sauce a stir (the cornflour settles) and pour it in.
 
 Toss everything for 60 seconds. The sauce will thicken and coat everything in a glossy, savoury glaze.
+
+![Tofu, chicken and veg coated in glossy sauce](/images/recipes/steps/stir-fry-wok.jpg)
 
 Add the spring onions. Toss once more. Done.
 

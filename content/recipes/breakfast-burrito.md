@@ -29,12 +29,27 @@ Breakfast is the easiest meal to make plant-based. This burrito is filling, prot
 
 ## Instructions
 
-1. Warm tortilla in a pan
-2. Heat black beans (microwave or pan)
-3. Scramble eggs/tofu
-4. Layer everything on tortilla: beans, eggs, spinach, salsa
-5. Roll it up
-6. Done
+### 1. Warm the Tortilla
+Warm the tortilla in a dry pan for 20-30 seconds per side so it bends without tearing.
+
+### 2. Heat the Beans
+Heat the black beans in a pan or microwave. Season with a pinch of salt and a splash of hot sauce if you like.
+
+### 3. Scramble the Eggs or Tofu
+Scramble the eggs, or use tofu scramble if you're going fully plant-based.
+
+### 4. Layer the Filling
+Add beans, eggs or tofu, spinach, salsa and hot sauce down the centre of the tortilla.
+
+![Beans, eggs, spinach and salsa layered onto the tortilla](/images/recipes/steps/breakfast-burrito-layering.jpg)
+
+### 5. Roll It Up
+Fold the sides in, tuck the bottom over the filling, then roll tightly.
+
+![Rolling the breakfast burrito tight enough to hold together](/images/recipes/steps/breakfast-burrito-rolling.jpg)
+
+### 6. Done
+Eat it as-is, or put it seam-side down in the pan for 60 seconds to crisp the outside.
 
 **Total time:** 5 minutes  
 **Difficulty:** Beginner  
